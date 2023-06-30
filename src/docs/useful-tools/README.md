@@ -9,7 +9,7 @@ If you are already familiar with [building on OP Mainnet](../developers/README.m
 
 ## Connecting
 
-You have the list of [networks](./networks.md) and [node providers](./providers.md) to help you connect to an Optimism node.
+You have the list of [networks](./networks.md) and [node providers](./providers.md) to help you connect to an OP Mainnet node.
 
 ## Deploying
 
